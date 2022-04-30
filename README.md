@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prissylove
 - 👀 I’m interested in backend engineering and data analytics
-- 🌱 I’m currently learning software engineering as ALX Student
+- 🌱 I’m currently learning software engineering with ALX Africa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - biohpriscilla448@gmail.com
 
